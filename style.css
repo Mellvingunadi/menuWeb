@@ -262,3 +262,14 @@ Menu
     height: 150px;
   }
 }
+/*mobile screen*/
+@media screen and (max-width: 375px) {
+  
+  .btn-container {
+    margin-bottom: 2rem;
+    display: grid;
+    align-items: center;
+    align-content: space-between;
+    gap: 20px;
+  }
+}
