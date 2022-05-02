@@ -270,7 +270,7 @@ Menu
   }
 }
 /*mobile screen*/
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 320px) {
   
   .btn-container {
     margin-bottom: 2rem;
